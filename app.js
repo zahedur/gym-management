@@ -3,6 +3,10 @@ const express = require('express')
 const router = require('./src/routes/api');
 const app = new express();
 const bodyParser = require('body-parser');
+const dotenv = require('dotenv');
+
+// env implementation
+dotenv.config({path: "./config.env"});
 
 // Security middleware Lib Import
 const rateLimit = require('express-rate-limit');
@@ -35,7 +39,7 @@ app.use(limiter)
 
 
 // Mongo DB Database Connection
-let URI = 'mongodb://127.0.0.1:27017/Todo';
+let URI = 'mongodb://127.0.0.1:27017/Gym';
 let OPTION = {user: '', pass: ''}
 mongoose.connect(URI, OPTION, error => {
     if (error){
