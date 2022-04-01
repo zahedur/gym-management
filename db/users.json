@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6242290ef6f5fd6ebe052972"
+  },
+  "firstName": "Zahedur",
+  "lastName": "Rahman",
+  "email": "zahedur@site.com",
+  "username": "zahedur",
+  "password": "$2b$10$JDmFRzS4pG0TJ/SoSF6WFuslTqA7UldHzVSv4ETGNyKC8P5MzSa0a",
+  "role": 1,
+  "createdAt": "2022-03-29T03:30:54+06:00",
+  "updatedAt": "2022-03-29T16:26:03+06:00"
+},{
+  "_id": {
+    "$oid": "62422937f6f5fd6ebe052976"
+  },
+  "firstName": "jewel",
+  "lastName": "Rahman",
+  "email": "jewel@site.com",
+  "username": "jewel",
+  "password": "$2b$10$.0TAAZA9WphqBUpssh/tFuMjlN6BLUyiMebRxLvTdoyKcG/TP2eoa",
+  "role": 2,
+  "createdAt": "2022-03-29T03:31:35+06:00",
+  "updatedAt": "2022-03-29T16:07:28+06:00"
+}]

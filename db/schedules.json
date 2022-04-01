@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6242ccd9f1d8443a5d147ce9"
+  },
+  "memberId": {
+    "$oid": "62422a7a3f6f42d0c9798342"
+  },
+  "dayOfWeek": [
+    "Saturday",
+    "Sunday"
+  ],
+  "dateFrom": {
+    "$date": "2022-03-25T00:00:00Z"
+  },
+  "dateTo": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "timeFrom": "10:00 am",
+  "timeTo": "12:00 pm",
+  "status": 1,
+  "createdAt": "2022-03-29T15:09:45+06:00",
+  "updatedAt": "2022-03-29T15:21:15+06:00"
+},{
+  "_id": {
+    "$oid": "6242cd11f1d8443a5d147ceb"
+  },
+  "memberId": {
+    "$oid": "62422a7a3f6f42d0c9798342"
+  },
+  "dayOfWeek": [
+    "Monday",
+    "Tuesday"
+  ],
+  "dateFrom": {
+    "$date": "2022-03-25T00:00:00Z"
+  },
+  "dateTo": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "timeFrom": "10:00 am",
+  "timeTo": "12:00 pm",
+  "status": 1,
+  "createdAt": "2022-03-29T15:10:41+06:00",
+  "updatedAt": null
+}]

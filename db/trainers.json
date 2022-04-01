@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "62422c1f35813d62c0713081"
+  },
+  "trainerId": "646565464",
+  "firstName": "Hafizur",
+  "lastName": "Rahman",
+  "middleName": "",
+  "email": "hafizur@site.com",
+  "mobile": "01711001122",
+  "gender": "male",
+  "address": "",
+  "createdAt": "2022-03-29T03:43:59+06:00",
+  "updatedAt": "2022-03-29T03:47:02+06:00"
+},{
+  "_id": {
+    "$oid": "62422c5135813d62c0713088"
+  },
+  "trainerId": "646565432",
+  "firstName": "Zillur",
+  "lastName": "Rahman",
+  "middleName": "",
+  "email": "zillur@site.com",
+  "mobile": "01711001126",
+  "gender": "male",
+  "address": "",
+  "createdAt": "2022-03-29T03:44:49+06:00",
+  "updatedAt": null
+}]

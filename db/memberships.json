@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6242ac0c40ac0b8aa71b77aa"
+  },
+  "memberId": {
+    "$oid": "62422a2d3f6f42d0c9798338"
+  },
+  "planId": {
+    "$oid": "62422df835813d62c07130ad"
+  },
+  "packageId": {
+    "$oid": "62422d4435813d62c071309a"
+  },
+  "trainerId": {
+    "$oid": "62422c1f35813d62c0713081"
+  },
+  "startDate": {
+    "$date": "2022-03-25T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "status": 1,
+  "createdAt": "2022-03-29T12:49:48+06:00",
+  "updatedAt": null
+},{
+  "_id": {
+    "$oid": "6242ac1940ac0b8aa71b77ac"
+  },
+  "memberId": {
+    "$oid": "62422a2d3f6f42d0c9798338"
+  },
+  "planId": {
+    "$oid": "62422df835813d62c07130ad"
+  },
+  "packageId": {
+    "$oid": "62422d4435813d62c071309a"
+  },
+  "trainerId": {
+    "$oid": "62422c1f35813d62c0713081"
+  },
+  "startDate": {
+    "$date": "2022-03-25T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "status": 1,
+  "createdAt": "2022-03-29T12:50:01+06:00",
+  "updatedAt": "2022-03-29T14:32:00+06:00"
+},{
+  "_id": {
+    "$oid": "6242c4590d2ba78c7f44cc60"
+  },
+  "memberId": {
+    "$oid": "62422a2d3f6f42d0c9798338"
+  },
+  "planId": {
+    "$oid": "62422df835813d62c07130ad"
+  },
+  "packageId": {
+    "$oid": "62422d4435813d62c071309a"
+  },
+  "trainerId": {
+    "$oid": "62422c1f35813d62c0713081"
+  },
+  "startDate": {
+    "$date": "2022-03-25T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "status": 1,
+  "createdAt": "2022-03-29T14:33:29+06:00",
+  "updatedAt": null
+}]

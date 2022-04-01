@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62422df835813d62c07130ad"
+  },
+  "month": 1,
+  "amount": 2000,
+  "createdAt": "2022-03-29T03:51:52+06:00",
+  "updatedAt": "2022-03-29T03:53:57+06:00"
+},{
+  "_id": {
+    "$oid": "62422e0335813d62c07130af"
+  },
+  "month": 2,
+  "amount": 3000,
+  "createdAt": "2022-03-29T03:52:03+06:00",
+  "updatedAt": null
+},{
+  "_id": {
+    "$oid": "62422e0e35813d62c07130b1"
+  },
+  "month": 3,
+  "amount": 4000,
+  "createdAt": "2022-03-29T03:52:14+06:00",
+  "updatedAt": null
+},{
+  "_id": {
+    "$oid": "62422e1a35813d62c07130b3"
+  },
+  "month": 4,
+  "amount": 5000,
+  "createdAt": "2022-03-29T03:52:26+06:00",
+  "updatedAt": null
+},{
+  "_id": {
+    "$oid": "62422e2735813d62c07130b5"
+  },
+  "month": 5,
+  "amount": 6000,
+  "createdAt": "2022-03-29T03:52:39+06:00",
+  "updatedAt": null
+}]

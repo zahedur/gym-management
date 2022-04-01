@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62422d4435813d62c071309a"
+  },
+  "name": "Premium",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "amount": 15000,
+  "createdAt": "2022-03-29T03:48:52+06:00",
+  "updatedAt": "2022-03-29T03:50:07+06:00"
+},{
+  "_id": {
+    "$oid": "62422d5b35813d62c071309c"
+  },
+  "name": "Standard",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "amount": 8000,
+  "createdAt": "2022-03-29T03:49:15+06:00",
+  "updatedAt": null
+},{
+  "_id": {
+    "$oid": "62422d6d35813d62c071309e"
+  },
+  "name": "Premium",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "amount": 15000,
+  "createdAt": "2022-03-29T03:49:33+06:00",
+  "updatedAt": null
+}]
